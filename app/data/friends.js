@@ -14,8 +14,43 @@ var friendArray = [
       4,
       1
       ]
- }
- ];  
+ },
+ {
+
+ "name":"Brad Pitt",
+   "photo":"http://img.usmagazine.com/article-leads-vertical-300/1250530894_brad_pitt_290x402.jpg",
+   "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+ ]
+ } ,
+ {
+
+ "name":"Angelin joli",
+   "photo":"https://beyondbreastcancer.files.wordpress.com/2014/01/angelina-jolie.jpg",
+   "scores":[
+      3,
+      1,
+      3,
+      4,
+      3,
+      1,
+      2,
+      5,
+      1,
+      1
+ ]
+ } 
+ ];
+
  
  module.exports = friendArray;
 
